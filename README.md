@@ -2,96 +2,89 @@
 
 
 
-# [Project Name] 🎯
+# SUBWAY SUFFERERS 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: FullyUseless
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Sreayasree Rajesh - College of Engineering ,Munnar
+- Member 2:  Sreayasree Rajesh - College of Engineering ,Munnar
+- Member 3: Jibiya Benny - College of Engineering, Munnar
 
 ### Project Description
-[2-3 lines about what your project does]
+SUBWAY SUFFERERS is a fun twist on the classic endless runner game. Instead of avoiding the obstacles ,players strategically interact with obstacles and challenges to gain points while surviving as long as possible . It is the REVERSE SUBWAY SURFERS.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Millons of players are tired of running away from obstacles in endless runner games.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We completely flipped the endless runner formula in the SUBWAY SUFFERERS.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- JavaScript 
+HTML
+CSS
+-React
+-Phaser 3
+-Visual Studio Code
+Git
+GitHub
+Chrome browser
+
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Laptop
+- Keyboard
+- Internet connection
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/your-username/subway-sufferers.git
+cd subway-sufferers
+npm install
 
 # Run
-[commands]
+npm run dev
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]<img width="1920" height="1080" alt="Screenshot 2026-09-12 094858" src="https://github.com/user-attachments/assets/266d014c-e4f3-4a70-a2c0-83e001b93c32" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Menu page
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]<img width="1920" height="1080" alt="Screenshot 2026-09-12 101719" src="https://github.com/user-attachments/assets/8ec962db-b7b9-446e-8aef-e922ffa3c966" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+Resume page
 
-For Hardware:
+![Screenshot3]<img width="1920" height="1080" alt="Screenshot 2026-09-12 101643" src="https://github.com/user-attachments/assets/7f6b43d8-8486-457e-ac34-d2b8d6de18b0" />
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+Game play page
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+https://github.com/user-attachments/assets/6a2ca0f6-d15a-433f-ad9a-8cb44bab058f
+
+
+
+This is the In-Game screen of SUBWAY SUFFERERS ,were the character runs as the obstacles appear.
+
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Sreayasree Rajesh: coding, idea
+- Jibiya Benny: idea, coding
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
