@@ -82,8 +82,8 @@ This is the In-Game screen of SUBWAY SUFFERERS ,were the character runs as the o
 
 
 ## Team Contributions
-- Sreayasree Rajesh: coding, idea
-- Jibiya Benny: idea, coding
+- Sreayasree Rajesh: coding
+- Jibiya Benny: idea
   
 
 ---
